@@ -1,0 +1,185 @@
+[1] Saldívar-González, F., Prieto-Martínez, F. D., & Medina-Franco, J. L. (2016). Descubrimiento y desarrollo de fármacos: un enfoque computacional. Educación Química. https://doi.org/10.1016/j.eq.2016.06.002
+
+[2] Lynch, S. S. (2022). Efectividad y seguridad de un fármaco. MSD Manuals. University of California San Francisco School of Pharmacy. https://www.msdmanuals.com/es/hogar/f%C3%A1rmacos-o-sustancias/introducci%C3%B3n-a-los-f%C3%A1rmacos/efectividad-y-seguridad-de-un-f%C3%A1rmaco
+
+[3] U.S. Food and Drug Administration. (2021, August 31). Development & Approval Process (Drugs). https://www.fda.gov/drugs/development-approval-process-drugs
+
+[4] Hughes, J. P., Rees, S., Kalindjian, S. B., Philpott, K. L. (2011). Principles of early drug discovery. British Journal of Pharmacology, 162(6), 1239-1249. doi:10.1111/j.1476-5381.2010.01127.x
+
+[5] DiMasi, J. A., Grabowski, H. G., & Hansen, R. W. (2016). Innovation in the pharmaceutical industry: New estimates of R&D costs. Journal of Health Economics, 47, 20-33. https://doi.org/10.1016/j.jhealeco.2016.01.012
+
+[6] Herper, M. (2013). How Much Does Pharmaceutical Innovation Cost? A Look At 100 Companies. Forbes. http://www.forbes.com/sites/matthewherper/2013/08/11/the-cost-of-inventing-a-new-drug-98-companies-ranked/
+
+[7] Tufts Center for the Study of Drug Development. (2017). Cost of Developing a New Drug. Tufts University. https://www.pacificresearch.org/wp-content/uploads/2017/06/Tufts_CSDD_briefing_on_RD_cost_study_-_Nov_18_2014..pdf
+
+[8] Wouters, O. J., McKee, M., Luyten, J. (2020). Estimated Research and Development Investment Needed to Bring a New Medicine to Market, 2009-2018. JAMA, 323(9). doi:10.1001/jama.2020.1166
+
+[9] Sinha, S. (2018). Pharmaceutical Medicine and Translational Clinical Research || Drug Discovery and Development. Academic Press. https://doi.org/10.1016/b978-0-12-802103-3.00002-x
+
+[10] Cheng, Y., Gong, Y., Liu, Y., Song, B., & Zou, Q. (2021). Molecular design in drug discovery: a comprehensive review of deep generative models. Briefings in Bioinformatics, 22(6), bbab344.
+
+[11] World Health Organization. (2014). Antimicrobial resistance: global report on surveillance. https://apps.who.int/iris/handle/10665/112642
+
+[12] World Health Organization. (2015). Global action plan on antimicrobial resistance. https://cdn.who.int/media/docs/default-source/antimicrobial-resistance/amr-spc-sel-glass/a68-r7-en.pdf?sfvrsn=fa7f3dde_2
+
+[13] World Health Organization. (2017). WHO guidelines on use of medically important antimicrobials in food-producing animals. https://www.who.int/publications/i/item/9789241509763
+
+[14] Organización Panamericana de la Salud. (2018). Resistencia a los antimicrobianos. https://www.paho.org/es/temas/resistencia-antimicrobianos
+
+[15] Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco, A.C. (2017). Avances en la seguridad y actividad biológica de sustancias bioactivas y probióticos. https://ciatej.mx/files/divulgacion/divulgacion_5a43b8672923a.pdf
+
+[16] Bravo Madrigal, J. (2017). Evaluación de propiedades antibacterianas y/o antiinflamatorias de nuevas moléculas, medicamentos y/o sustancias de origen natural sobre un modelo "in vivo". CIATEJ, A. C.
+
+[17] World Health Organization. (2021, 17 de noviembre). Resistencia a los antimicrobianos. World Health Organization (WHO). https://www.who.int/es/news-room/fact-sheets/detail/antimicrobial-resistance
+
+[18] Bero, S. A., Muda, A. K., Choo, Y.-H., Muda, N. A., & Pratama, S. F. (2017). Similarity Measure for Molecular Structure: A Brief Review. Journal of Physics, 892. https://doi.org/10.1088/1742-6596/892/1/012015
+
+[19] Wu, K., Karapetyan, E., Schloss, J., Vadgama, J., & Wu, Y. (2023). Advancements in small molecule drug design: A structural perspective. Drug Discovery Today.
+
+[20] Barba-Ostria, C. C., Carrera-Pacheco, S. E., Gonzalez-Pastor, R., Heredia-Moya, J., Mayorga-Ramos, A., Rodríguez-Pólit, C., Zúñiga-Miranda, J., Arias-Almeida, B., & Guamán, L. P. (2022, julio 13). Evaluation of Biological Activity of Natural Compounds: Current Trends and Methods. Molecules, 27(14). https://doi.org/10.3390/molecules27144490
+
+[21] Hughes, J. P., Rees, S., Kalindjian, S. B., Philpott, K. L. (2011-3). Principles of early drug discovery. British Journal of Pharmacology, 162(6). ISSN 0007-1188. PMC 3058157. PMID 21091654. doi:10.1111/j.1476-5381.2010.01127.x.
+
+[22] Maggiora, G. M., & Shanmugasundaram, V. (2010). Molecular Similarity Measures. Chemoinformatics and Computational Chemical Biology. doi:10.1007/978-1-60761-839-3_2
+
+[23] Anderson, A. C. (2003). The process of structure-based drug design. Chemistry & Biology, 10(9).
+
+[24] Ismail, H., Malim, N. H. A. H., Zobir, S. Z. M., & Wahab, H. A. (2021, marzo). Comparative Studies On Drug-Target Interaction Prediction Using Machine Learning and Deep Learning Methods With Different Molecular Descriptors. IEEE.
+
+[25] Páez Moreno, R. (2011). La investigación de la industria farmacéutica: ¿condicionada por los intereses del mercado?. Acta bioethica, 17(2). https://dx.doi.org/10.4067/S1726-569X2011000200010
+
+[26] Lahlou, M. (2014). The Success of Natural Products in Drug Discovery. Pharmacology & Pharmacy, 4.
+
+[27] Padole, S. S., Asnani, A. J., Chaple, D. R., & Katre, S. G. (2022). A review of approaches in computer-aided drug design in drug discovery. GSC Biological and Pharmaceutical Sciences, 19(2).
+
+[28] Hentabli, H., Saeed, F., Abdo, A., & Salim, N. (2014). Research Article A New Graph-Based Molecular Descriptor Using the Canonical Representation of the Molecule. https://doi.org/10.1155/2014/286974
+
+[29] Ekaney, L. Y., Eni, D. B., & Ntie-Kang, F. (2021). Chemical similarity methods for analyzing secondary metabolite structures. Physical Sciences Reviews, 6(7). https://doi.org/10.1515/psr-2018-0129
+
+[30] Martin, Y. C. D., Kofron, J. L., & Traphagen, L. M. (2002). Do Structurally Similar Molecules Have Similar Biological Activity? Journal of Medicinal Chemistry, 45(19). doi:10.1021/jm020155c
+
+[31] Leszczynski, J., Kaczmarek-Kedziera, A., Puzyn, T., Papadopoulos, M. G., Reis, H., & Shukla, M. K. (2017). Handbook of Computational Chemistry || Molecular Descriptors. Springer, 51. doi:10.1007/978-3-319-27282-5_51
+
+[32] Lui, R., Guan, D., & Matthews, S. (2020). A comparison of molecular representations for lipophilicity quantitative structure–property relationships with results from the SAMPL6 logP Prediction Challenge. Journal of computer-aided molecular design, 34(5). doi: 10.1007/s10822-020-00279-0
+
+[33] Comesana, A. E., Huntington, T. T., Scown, C. D., Niemeyer, K. E., & Rapp, V. H. (2022). A systematic method for selecting molecular descriptors as features when training models for predicting physiochemical properties. Fuel, 321. https://doi.org/10.1016/j.fuel.2022.123836
+
+[34] Ghani, M. U., Imran, M., Sampathkumar, S., Tchier, F., Pattabiraman, K., & Jan, A. Z. (2023). A paradigmatic approach to the molecular descriptor computation for some antiviral drugs. Heliyon, 9(11). https://doi.org/10.1016/j.heliyon.2023.e21401
+
+[35] Consonni, V., Ballabio, D., & Todeschini, R. (2023). Chemical space and molecular descriptors for QSAR studies. In Cheminformatics, QSAR and Machine Learning Applications for Novel Drug Development. Academic Press. https://doi.org/10.1016/B978-0-443-18638-7.00022-0
+
+[36] Garrigues, J. C. (2019). How to Connect a Chemical Structure to a Property: History and new developments. doi:10.9790/5736-1212014350
+
+[37] Yang, J., Cai, Y., Zhao, K., Xie, H., & Chen, X. (2022). Concepts and applications of chemical fingerprint for hit and lead screening. Drug Discovery Today. https://doi.org/10.1016/j.drudis.2022.103356
+
+[38] Brown, T. L. (2003). The metaphorical foundations of chemical explanation. Ann. NY Acad. Sci., 988, 209–216. doi: 10.1111/j.1749-6632.2003.tb06100.x
+
+[39] Shin, W. H., Zhu, X., Bures, M., & Kihara, D. (2015). Three-Dimensional Compound Comparison Methods and Their Application in Drug Discovery. Molecules, 20.
+
+[40] Rabbih, M. A., Mamoun, S. M. A., & Selim, E. T. M. (2012). Semiempirical Calculations of the Proton Affinities of Some Quinolone Derivatives. Journal of Computer Science & Computational Mathematics, 2, 53-55. doi:10.20967/jcscm.2012.09.009
+
+[41] Harary, F. (1969). Graph Theory. AddisonWesley Publishing Company, Reading, Massachusetts.
+
+[42] Wagner, S., & Wang, H. (2018, 5 Sept.). Introduction to Chemical Graph Theory. CRC Press.
+
+[43] Trinajstic´, N. (1992). Chemical Graph Theory. CRC Press, Boca Raton, Florida.
+
+[44] Cantor, G. (1874). Ueber eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen. Journal für die reine und angewandte Mathematik, 77.
+
+[45] Gibbs, J. W. (1881). Elements of Vector Analysis. Tuttle & Morehouse & Taylor.
+
+[46] Euler, L. (1748). Introductio in Analysin Infinitorum. Marcum-Michaelem Bousquet.
+
+[47] Guo, Z., Guo, K., Nan, B., Tian, Y., Iyer, R. G., Ma, Y., Wiest, O., Zhang, X., Wang, W., Zhang, C., & Chawla, N. V. (2022). Graph-based molecular representation learning. arXiv preprint arXiv. https://doi.org/10.48550/arXiv.2207.04869
+
+[48] Mason, J.S., Morize, I., Menard, P.R., Cheney, D.L., Hulme, C., and Labaudiniere, R.F. (1999). New 4-point pharmacophore method for molecular similarity and diversity applications: overview of the method and applications, including a novel approach to the design of combinatorial libraries containing privileged substructures. Journal of medicinal chemistry, 42. https://doi.org/10.1021/jm9806998
+
+[49] Domínguez Soria, V.D., & González Torres, J.C. (2019). Análisis de cargas atómicas parciales del TiO2 con el método DDEC. Revista Tendencias en Docencia e Investigación en Química, 5(5), 603-607. http://zaloamati.azc.uam.mx/bitstream/handle/11191/7885/Analisis_de_cargas_atomicas_parciales_2019.pdf?sequence=1
+
+[50] M. Randić. (1975). On characterization of molecular branching. Journal of the American Chemical Society. https://doi.org/10.1021/ja00856a001
+
+[51] Gutman, I., Furtula, B., & Katanić, V. (2017). Randić index and information. AKCE International Journal of Graphs and Combinatorics. doi:10.1016/j.akcej.2017.09.006
+
+[52] Ma, Y. & Cao, S. & Shi, Y. & Gutman, I. & Dehmer, M. & Furtula, Boris. (2018). From the connectivity index to various randić-Type descriptors. Match, 80.
+
+[53] Devillers, J. and Balaban, A.T., Eds. (1999). Topological Indices and Related Descriptors in QSAR and QSPR. Gordon and Breach Science Publishers, Amsterdam, The Netherlands.
+
+[54] James, C.A., Weininger, D., and Delany, J. (2002). Daylight Theory Manual. Daylight Chemical Information Systems, Inc.
+
+[55] Maggiora, G. M., Vogt, M., Stumpfe, D., & Bajorath, J. J. (2013). Molecular similarity in medicinal chemistry. Journal of Medicinal Chemistry, 57, chapter 8. https://doi.org/10.1021/jm401760k
+
+[56] Cha, S. (2007). Comprehensive Survey on Distance / Similarity Measures between Probability Density Functions. International Journal of Mathematical Models and Methods in Applied Sciences, 1, chapter 4. doi:10.5281/zenodo.4547434
+
+[57] Screening H T (2002). Grouping Of Coefficients For The Calculation Of Inter-Molecular Similarity And Dissimilarity Using 2D Fragment Bit-strings. Universities of Leeds & Sheffield & York, 5. https://doi.org/10.1007/978-0-387-35767-9_9
+
+[58] Seung-Seok C, Sung-Hyuk C, & Tappert C (2010). A Survey of Binary Similarity and Distance. doi:10.5772/39446
+
+[59] Carhart, R. E., Smith, D. H., & Venkataraghavan, R. (1985). Atom pairs as molecular features in structure-activity studies: definition and applications. Journal of Chemical Information and Computer Sciences, 25, chapter 2. doi:10.1021/ci00046a002
+
+[60] Willett, P. (2014). The Calculation of Molecular Structural Similarity: Principles and Practice. Molecular Informatics, 33, chapters 6–7. doi:10.1002/minf.201300140
+
+[61] Arulmozhi, V., Rajesh, R. (2011). Chemoinformatics: A Quick Review. IEEE. doi:10.1109/ICECTECH.2011.5942128
+
+[62] Begam, B. F., & Kumar, J. S. (2012). A Study on Cheminformatics and its Applications on Modern Drug Discovery. Procedia Engineering, 38(Icmoc).
+
+[63] Willett, P. (2009). Similarity methods in chemoinformatics. Annual Review of Information Science and Technology, 43.
+
+[64] Sheridan, R. P., & Kearsley, S. K. (2002). Why do we need so many chemical similarity search methods? Drug Discovery Today.
+
+[65] Johnson, M. A. (1989). A review and examination of mathematical spaces underlying molecular similarity analysis. Journal of Mathematical Chemistry, 3.
+
+[66] Willett, P., Barnard, J. M., & Downs, G. M. (1998). Chemical similarity searching. Journal of Chemical Information and Computer Sciences, 38, chapter 6.
+
+[67] Hagadone, T. R. (1992). Molecular substructure similarity searching: efficient retrieval in two-dimensional structure databases. Journal of Chemical Information and Computer Sciences, 32, chapter 5.
+
+[68] Willett, P. (2006). Similarity-Based Virtual Screening Using 2D Fingerprints. Discovery. Universities of Leeds, New York.
+
+[69] Flower, D. R. (1998). On the Properties of Bit String-Based Measures of Chemical Similarity. Journal of Chemical Information and Modeling, 38, chapter 3.
+
+[70] Dean, P. M. (2012). Molecular Similarity in Drug Design. Springer Dordrecht, 65, chapter 3. ISBN:978-94-010-4589-6
+
+[71] Finn, P. W., & Morris, G. M. (2012). Shape‐based similarity searching in chemical databases. WIREs Computational Molecular Science, 3(3). https://doi.org/10.1002/wcms.1128
+
+[72] Basak, S. C., Gute, B. D., & Grunwald, G. D. (1997). Use of topostructural, topochemical, and geometric parameters in the prediction of vapor pressure: A hierarchical QSAR approach. Journal of Chemical Information and Computer Sciences.
+
+[73] Esra Özay Köse, Muhammet Köse, & Seda Sağdınç. (2023). Principal component analysis of quantum mechanical descriptors data to reveal the pharmacological activities of oxindole derivatives. Results in Chemistry.
+
+[74] Carbó, R., Leyda, L., & Arnau, M. (1980). How similar is a molecule to another? An electron density measure of similarity between two molecular structures. International Journal of Quantum Chemistry, 17, chapter 6.
+
+[75] Bultinck, P., Van Damme, S., & Carbó-Dorca, R. (2009). Molecular Quantum Similarity, chapter 20. ISBN: 9780429137228. doi:10.1201/9781420065442-20.
+
+[76] Todeschini, R., & Consonni, V. (2000). Handbook of molecular descriptors. Wiley-VCH, Weinheim.
+
+[77] Warr, W. A. (2011). Representation of chemical structures. WIREs Computational Molecular Science, 1(4). https://doi.org/10.1002/wcms.36
+
+[78] Leach, A. R., & Gillet, V. J. (2007). An introduction to Chemoinformatics.
+
+[18] Bero, S. A., Muda, A. K., Choo, Y. H., Muda, N. A., & Pratama, S. F. (2017, September). Similarity measure for molecular structure: A brief review. Journal of Physics: Conference Series, 892(1). IOP Publishing.
+
+[80] Willett, P. (2011). Similarity searching using 2D structural fingerprints. Chemoinformatics and computational chemical biology.
+
+[81] Artymiuk, P. J., Bath, P. A., Grindley, H. M., Pepperrell, C. A., Poirrette, A. R., Rice, D. W., Thorner, D. A, Wild, D. J., Willett P., Bank W., Sheffield S., Allen, F. H. & Taylor, R. (1992). Similarity Searching. Structure and methods, 24.
+
+[82] Sukumar, N. (2009). The chemist’s concept of molecular structure. Foundations of Chemistry, 11. https://doi.org/10.1007/s10698-008-9060-7
+
+[83] Marin, R. M., Aguirre, N. F., & Daza, E. E. (2008). Graph theoretical similarity approach to compare molecular electrostatic potentials. Journal of chemical information and modeling, 48(1).
+
+[84] Medina-Franco, J. L., Martínez-Mayorga, K., Bender, A., Marín, R. M., Giulianotti, M. A., Pinilla, C., & Houghten, R. A. (2009). Characterization of activity landscapes using 2D and 3D similarity methods: consensus activity cliffs. Journal of chemical information and modeling, 49(2).
+
+[85] Maza, J. R., Torres, R. E., & Daza, E. E. (2011). FUNCIONES DE CONTORNO PARA ÁRBOLES COMO MEDIDA DE SIMILITUD ENTRE CAMPOS ESCALARES MOLECULARES: UN ESTUDO DE SIMILITUD MOLECULAR. Revista Colombiana de Química, 40(3).
+
+[86] Torres Carvajal, R. (2011). Parallel computing system for the efficient calculation of molecular similarity based on negative electrostatic potential. Universidad Nacional de Colombia. http://bdigital.unal.edu.co/10045/1/102629.2012.pdf
+
+[87] PubChem. (2023). PubChem. https://pubchem.ncbi.nlm.nih.gov/
+
+[88] M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, G. A. Petersson, H. Nakatsuji, X. Li, M. Caricato, A. V. Marenich, J. Bloino, B. G. Janesko, R. Gomperts, B. Mennucci, H. P. Hratchian, J. V. Ortiz, A. F. Izmaylov, J. L. Sonnenberg, D. Williams-Young, F. Ding, F. Lipparini, F. Egidi, J. Goings, B. Peng, A. Petrone, T. Henderson, D. Ranasinghe, V. G. Zakrzewski, J. Gao, N. Rega, G. Zheng, W. Liang, M. Hada, M. Ehara, K. Toyota, R. Fukuda, J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai, T. Vreven, K. Throssell, J. A. Montgomery, Jr., J. E. Peralta, F. Ogliaro, M. J. Bearpark, J. J. Heyd, E. N. Brothers, K. N. Kudin, V. N. Staroverov, T. A. Keith, R. Kobayashi, J. Normand, K. Raghavachari, A. P. Rendell, J. C. Burant, S. S. Iyengar, J. Tomasi, M. Cossi, J. M. Millam, M. Klene, C. Adamo, R. Cammi, J. W. Ochterski, R. L. Martin, K. Morokuma, O. Farkas, J. B. Foresman, and D. J. Fox. (2016). Gaussian 16, Revision C 01. Gaussian Incorporation, Wallingford CT.
+
+[89] RDKit: Open-source cheminformatics. https://www.rdkit.org
+
+[90] Harris, C.R., Millman, K.J., van der Walt, S.J. et al. (2020). Array programming with NumPy. Nature, 585. doi: 10.1038/s41586-020-2649-2.
+
+[91] Waskom, M. L. (2021). Seaborn: statistical data visualization. Journal of Open Source Software, 6(60). https://doi.org/10.21105/joss.03021.
+
+[92] Pauli Virtanen, Ralf Gommers, Travis E. Oliphant, Matt Haberland, Tyler Reddy, David Cournapeau, Evgeni Burovski, Pearu Peterson, Warren Weckesser, Jonathan Bright, Stéfan J. van der Walt, Matthew Brett, Joshua Wilson, K. Jarrod Millman, Nikolay Mayorov, Andrew R. J. Nelson, Eric Jones, Robert Kern, Eric Larson, CJ Carey, İlhan Polat, Yu Feng, Eric W. Moore, Jake VanderPlas, Denis Laxalde, Josef Perktold, Robert Cimrman, Ian Henriksen, E.A. Quintero, Charles R Harris, Anne M. Archibald, Antônio H. Ribeiro, Fabian Pedregosa, Paul van Mulbregt, and SciPy 1.0 Contributors. (2020). SciPy 1: Fundamental Algorithms for Scientific Computing in Python. Nature Methods, 17(3).
+
+[93] Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12.
